@@ -18,6 +18,6 @@ const FirstPost = () => {
     </Layout>
   );
 }
-
+//toDo: continue whole page
 
 export default FirstPost;
